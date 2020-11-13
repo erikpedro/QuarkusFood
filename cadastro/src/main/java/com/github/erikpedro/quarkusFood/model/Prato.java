@@ -27,7 +27,7 @@ public class Prato extends PanacheEntityBase{
 	@ManyToOne
 	public Restaurante restaurante;
 	
-	public BigDecimal preço;
+	public BigDecimal preco;
 	
 
 }
